@@ -1,0 +1,148 @@
+body{
+    background-color: #27252a;
+    margin: 0%;
+}
+
+.cabecalho{
+    position: sticky;
+    top: 0px;
+    background-color: #000;
+    height: 60px;
+    border-bottom: 0.5px solid #fff;
+}
+.logo{
+    width: 100px;
+    position: absolute;
+    top: 7px;
+    left: 30px;
+    margin-bottom: 10px;
+}
+
+.instagram{
+    width: 50px;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+    margin-bottom: 10px;
+}
+.spotify{
+    width: 50px;
+    position: absolute;
+    top: 5px;
+    right: 90px;
+    margin-bottom: 10px;
+}
+
+.system{
+    text-align: center;
+    margin-top: 40px;
+}
+.subtitulo{
+    color: #fff;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.foto{
+    text-align: center;
+}
+.foto-banda{
+    width: 800px;
+}
+
+.descricao-foto{
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+    margin-top: 0%;
+}
+
+.sobre-a-banda{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+span{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.descricao-1{
+    color: #fff;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 16px;
+}
+.descricao-2,
+.descricao-3,
+.descricao-4{
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 16px;
+}
+
+.albuns-lancados{
+    color: #fff;
+    font-size: 40px;
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.album{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+.album-1{
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.tamanho{
+    width: 250px;
+    border-radius: 8px;
+}
+
+.trecho{
+    margin-top: 80px;
+    background-color: rgb(104, 115, 125);
+    font-size: 60px;
+    color: #444;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding: 100px 80px;
+    border-bottom: 3px solid #000;
+    border-top: 3px solid #000;
+}
+.titulo-trecho{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-style: italic;
+    color: #000;
+    font-weight: 600;
+}
+
+hr{
+    border: none;
+    background-color: #6a6a6a;
+    height: 0.5px;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+}
+.img-banda{
+    margin-top: 30px;
+    width: 250px;
+}
